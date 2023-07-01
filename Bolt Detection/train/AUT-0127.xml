@@ -1,0 +1,44 @@
+<?xml version="1.0" ?><annotation>
+	<folder>WH_data</folder>
+	<filename>AUT-0127.jpg</filename>
+	<source>
+		<database>WH Data</database>
+		<annotation>WH</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>WH</name>
+	</owner>
+	<size>
+		<width>3648</width>
+		<height>2736</height>
+		<depth>3</depth>
+	</size>
+		<segmented>0</segmented>
+	<object>
+		<name>bolt_b</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2026</xmin>
+			<ymin>1025</ymin>
+			<xmax>2203</xmax>
+			<ymax>1197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bolt_b</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2086</xmin>
+			<ymin>1642</ymin>
+			<xmax>2288</xmax>
+			<ymax>1837</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?><annotation>
+	<folder>WH_data</folder>
+	<filename>WEB-0090.jpg</filename>
+	<source>
+		<database>WH Data</database>
+		<annotation>WH</annotation>
+		<image>flickr</image>
+		<flickrid>NULL</flickrid>
+	</source>
+	<owner>
+		<flickrid>NULL</flickrid>
+		<name>WH</name>
+	</owner>
+	<size>
+		<width>3840</width>
+		<height>2592</height>
+		<depth>3</depth>
+	</size>
+		<segmented>0</segmented>
+	<object>
+		<name>bolt_b</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1389</xmin>
+			<ymin>802</ymin>
+			<xmax>2719</xmax>
+			<ymax>2134</ymax>
+		</bndbox>
+	</object>
+</annotation>
